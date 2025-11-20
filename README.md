@@ -1,5 +1,5 @@
 # 🖥️ OS Scheduling Algorithm Simulator  
-
+Live : https://rai-kriti.github.io/OS/
 **Jaypee Institute of Information Technology, Noida (Sec-62)**  
 Batch: F7  
 
